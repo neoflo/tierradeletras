@@ -1,2 +1,2 @@
 # tierradeletras
-SBlog for writing and thinking
+Blog for writing and thinking
